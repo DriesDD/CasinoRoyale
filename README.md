@@ -3,7 +3,7 @@ BeCode Sourcerors group consolidation challenge!
 
 ## *Sourcerors* :collision:
  * :woman_technologist:[Ezgi](https://github.com/ezgihendrickx)
- * :man_technologist:[Dries](https://github.com/DriesDD)
+ * :man_technologist: :fire:[Dries](https://github.com/DriesDD)
  * :woman_technologist:[Nicol](https://github.com/NicolSaha)
  * :man_technologist:[Fawad](https://github.com/fawadrafique)
 
