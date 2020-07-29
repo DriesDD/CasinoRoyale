@@ -19,8 +19,8 @@ BeCode Sourcerors group consolidation challenge!
 **Afternoon**|
 **Sprint Goals**|
 
-### *Must-haves* :computer:
-## Virtual Casino with:
+## *Must-haves* :computer:
+**Virtual Casino with:**
 - 2-4 games
   1. Rock, Paper, Scissors, Lizard, Spock
   2. Twenty-One
