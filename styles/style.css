@@ -1,0 +1,6 @@
+@import url("https://use.typekit.net/eyl3qrc.css");
+@import url("https://fonts.googleapis.com/css2?family=Rubik&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
